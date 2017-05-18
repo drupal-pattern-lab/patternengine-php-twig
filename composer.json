@@ -24,7 +24,7 @@
 		}
 	},
 	"require": {
-		"pattern-lab/core": "dev-dev",
+		"pattern-lab/core": "^2.0.0",
 		"twig/twig":        "~1.0"
 	},
 	"extra": {
